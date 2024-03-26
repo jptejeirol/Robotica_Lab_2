@@ -1,0 +1,12 @@
+> Home
+> Home
+> Move Origen
+!!Error: 4250, Arm reached the limit of motion range during the operation., Robot 1, Joint 3
+> Jump Origen
+!!Error: 2318, Cannot execute a motion command when an error has been detected.
+> Home
+!!Error: 2318, Cannot execute a motion command when an error has been detected.
+> Motor On
+> Home
+> Home
+> 
